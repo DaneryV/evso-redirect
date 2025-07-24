@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://sites.google.com/evso.com.mx/evso/inicio",
+        "type": 301
+      }
+    ]
+  }
+}
